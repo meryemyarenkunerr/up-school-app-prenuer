@@ -1,0 +1,21 @@
+name: eurovision_fan_app
+description: Eurovision fan ecosystem mobile app.
+publish_to: "none"
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.5.1
+  supabase_flutter: ^2.5.6
+  google_sign_in: ^6.2.1
+  sign_in_with_apple: ^6.1.0
+  flutter_secure_storage: ^9.2.2
+  crypto: ^3.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
