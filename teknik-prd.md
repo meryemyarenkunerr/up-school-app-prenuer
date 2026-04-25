@@ -1,7 +1,7 @@
-# Eurovision Fan Ekosistemi Teknik PRD v2.0
+# Eurovision Fan Ekosistemi Teknik PRD
 
 **Proje:** Eurovision Fan Ekosistemi (The Predictive Core)  
-**Doküman Sürümü:** 2.0 (Geliştirici Odaklı Tam Teknik Şartname)  
+**Doküman Sürümü:** 1.0 (Geliştirici Odaklı Tam Teknik Şartname)  
 **Hedef Platform:** Android (Flutter Framework)  
 **Backend:** Supabase (PostgreSQL)  
 **Cache:** Upstash Redis
